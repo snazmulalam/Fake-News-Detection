@@ -1,5 +1,6 @@
 <h1><b><code>Fake News Detection by Nazmul Alam</code></b></h1>
 
+This project was done by using this datasets ![Fake News Detection](https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset)
 
 For Completing this project I have been followed bellow steps:
 
@@ -12,12 +13,13 @@ For Completing this project I have been followed bellow steps:
   <li>Create an Summary</li>
 </ol>
 
-<h2><b><code>I have been used bellow libraries for building an optimal modle:</code></b><h2>
+<h2><b><code>I have been used bellow libraries for building an optimal modle:</code></b></h2>
 
 <ol>
-  <li><code>Os</code></b></li>
-  <li><code>Numpy</code></b></li>
-  <li><code>Pandas</code></b></li>
-  <li><code>Matplotlib</code></b></li>
-  <li><code>Scikit-Learn</code></b></li>
+  <li><code>Os</code></li>
+  <li><code>Numpy</code></li>
+  <li><code>Pandas</code></li>
+  <li><code>Matplotlib</code></li>
+  <li><code>Scikit-Learn</code></li>
+  <li><code>Natural Language Toolkit (NLTK)</code></li>
 </ol>

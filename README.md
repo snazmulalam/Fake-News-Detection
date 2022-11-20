@@ -1,6 +1,6 @@
 <h1><b><code>Fake News Detection by Nazmul Alam</code></b></h1>
 
-This project was done by using this datasets ![Fake News Detection](https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset)
+This project was done by using this datasets [Fake News Detection](https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset)
 
 For Completing this project I have been followed bellow steps:
 

@@ -13,7 +13,7 @@ For Completing this project I have been followed bellow steps:
   <li>Create an Summary</li>
 </ol>
 
-<h2><b><code>I have been used bellow libraries for building an optimal modle:</code></b></h2>
+<h3><b><code>I have been used bellow libraries for building an optimal model:</code></b></h3>
 
 <ol>
   <li><code>Os</code></li>

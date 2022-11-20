@@ -11,3 +11,13 @@ For Completing this project I have been followed bellow steps:
   <li>Evaluated my model</li>
   <li>Create an Summary</li>
 </ol>
+
+<h2><b><code>I have been used bellow libraries for building an optimal modle:</code></b><h2>
+
+<ol>
+  <li><code>Os</code></b></li>
+  <li><code>Numpy</code></b></li>
+  <li><code>Pandas</code></b></li>
+  <li><code>Matplotlib</code></b></li>
+  <li><code>Scikit-Learn</code></b></li>
+</ol>
